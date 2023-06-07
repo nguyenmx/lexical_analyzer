@@ -1,0 +1,23 @@
+int main(void)
+{
+	int inches, feet, fathoms;
+	int p = feet;
+	int x,y,z;
+	double sum = 0.0;
+	double dowhile = 12345.67;
+	string empty = "";
+	fathoms = 7;
+	feet = 6 * fathoms;
+	inches = 12 * feet;
+	while(true) {
+		printf("Hello, World");
+		sum = sum + .5;
+		break;
+	}
+
+	if (a = b)
+		dowhile = 72.399+ x-y*z;
+	else
+		dowhile = 12345.67;
+	return 0;
+}

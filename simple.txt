@@ -1,0 +1,11 @@
+	int inches = 7
+  int feet = 5
+	double total = (12 * feet + inches)
+"he ll.o" 
+"hi"
+.889f
+.999
+if
+00.007f
+.00889
+""
